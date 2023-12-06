@@ -1,9 +1,8 @@
 # EfficientSAM
 
-_XetHub hosted fork of EfficientSAM using our [XetData plugin](https://github.com/apps/xetdata)._
+[XetHub](about.xethub.com) hosted fork of EfficientSAM using the [GitHub plugin](https://github.com/apps/xetdata).
 
-**EfficientSAM: Leveraged Masked Image Pretraining for Efficient Segment Anything
-**
+EfficientSAM: Leveraged Masked Image Pretraining for Efficient Segment Anything
 
 ## News
 [Dec.5 2023] We release the torchscript version of EfficientSAM and share the Google colab notebook.
@@ -13,6 +12,7 @@ Online demo and examples can be found in the [project page](https://yformer.gith
 
 ## EfficientSAM Instance Segmentation Examples
 
+<img width="848" alt="Screenshot 2023-12-06 at 1 16 13 PM" src="https://github.com/xetdata/EfficientSAM/assets/801507/6a4586e6-94cc-4eea-94e7-e78a6f57dcfe">
 
 
 ## Using the models
@@ -21,6 +21,9 @@ The model files live in this repo itself:
 
 - EfficientSAM-S:[models/efficientsam_s_gpu.jit](models/efficientsam_s_gpu.jit)
 - EfficientSAM-Ti: [models/efficientsam_ti_gpu.jit](models/efficientsam_ti_gpu.jit)
+
+<img width="971" alt="Screenshot 2023-12-06 at 1 19 26 PM" src="https://github.com/xetdata/EfficientSAM/assets/801507/72374016-2b6f-4617-881a-9b7b45059a35">
+
 
 **Instructions**
 
