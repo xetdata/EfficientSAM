@@ -1,6 +1,6 @@
 # EfficientSAM
 
-[XetHub](about.xethub.com) hosted fork of [EfficientSAM](https://github.com/yformer/EfficientSAM) using the [GitHub plugin](https://github.com/apps/xetdata).
+[XetHub](https://about.xethub.com) hosted fork of [EfficientSAM](https://github.com/yformer/EfficientSAM) using the [GitHub plugin](https://github.com/apps/xetdata).
 
 EfficientSAM: Leveraged Masked Image Pretraining for Efficient Segment Anything
 
